@@ -4,25 +4,31 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Muestreo de agua
+        span 6
+      h1 Seguridad y salud en el trabajo
 
     Separador
     .row
       .col-xl-12       
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 2.1 Métodos de muestreo
+    #t_6_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 6.1 Clases de riesgos
       
     Separador
     .row
       .col-xl-12       
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 2.2 Tipos de alícuotas y recipientes
+    #t_6_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 6.2 Métodos de prevención
+      
+    Separador
+    .row
+      .col-xl-12       
+    #t_6_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 6.3 Elementos de protección individual
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema3',
   data: () => ({
     // variables de vue
   }),

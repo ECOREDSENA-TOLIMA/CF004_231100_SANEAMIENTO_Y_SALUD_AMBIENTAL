@@ -3,9 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
-
+    p A continuación, se describe el tema principal del componente formativo Generalidades del muestreo para calidad de agua, que es una práctica fundamental en el monitoreo y evaluación de la salud ambiental. Consiste en la recolección representativa de muestras de agua en diferentes puntos y momentos para analizar sus propiedades físicas, químicas y biológicas. El objetivo principal es obtener datos confiables que permitan evaluar y controlar la calidad del agua, identificando posibles contaminantes y tomando medidas preventivas o correctivas. El muestreo debe realizarse siguiendo protocolos estandarizados, considerando la ubicación de los puntos de muestreo, la frecuencia de recolección y las condiciones de preservación de las muestras. Además, es importante garantizar la trazabilidad de los datos y mantener la integridad de las muestras para obtener resultados precisos y válidos.
+ 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
