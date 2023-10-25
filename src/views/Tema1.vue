@@ -66,7 +66,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.1 Propiedades
 
-    .cajon.color-secundario.p-4.mb-4      
+    .cajon.tarj-color.p-4.mb-4      
       p El agua participa en la mayoría de los procesos biológicos, físicos y químicos que se desarrollan en el planeta, haciendo que muchos procesos de las actividades humanas se relacionen directamente (Galvín, 2022).
     
     .row.justify-content-center.align-items-center.mb-5
@@ -154,7 +154,7 @@
                 h3(style="color:#264100").mt-2 Propiedades químicas
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        .cajon.color-secundario.p-4.mb-4
+        .cajon.tarj-color.p-4.mb-4
           ul.lista-ul
             li 
               i.fas.fa-circle.fa-2xs
@@ -281,7 +281,7 @@
       .col-lg-12
         p En el contexto de los muestreos de agua, se lleva a cabo la medición de diversos parámetros críticos que son fundamentales para evaluar la calidad del agua y su adecuación para diferentes usos. Estos parámetros incluyen: 
     
-    .cajon.color-secundario.tarj-color.p-4.mb-4
+    .cajon.tarj-color.p-4.mb-4
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-2        
           figure
@@ -316,55 +316,55 @@
               i.fas.fa-circle.fa-2xs
               | Sólidos suspendidos.
       
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
-          p Los resultados obtenidos se someten a un proceso de contraste o análisis en comparación con los niveles permitidos previamente establecidos con el fin de determinar la condición de un cuerpo de agua. Es fundamental que los valores de referencia recomendados cumplan con ciertos criterios:
-      
-      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-lg-6.mb-1(data-aos="fade-down-left")
-          .tarjeta-avatar-b
-            .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
-              .p-1
-              .row
-                .col-1
-                  figure
-                    img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
-                .col-11
-                  .mt-3
-                  p Deben estar respaldados y justificados desde una perspectiva científica sólida.
-        .col-lg-6.mb-1(data-aos="fade-down-left")
-          .tarjeta-avatar-b
-            .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
-              .p-1
-              .row
-                .col-1
-                  figure
-                    img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
-                .col-11
-                  .mt-3
-                  p Su implementación debe ser práctica y factible, considerando los recursos y capacidades disponibles.
-        .col-lg-6.mb-1(data-aos="fade-down-left")
-          .tarjeta-avatar-b
-            .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
-              .p-1
-              .row
-                .col-1
-                  figure
-                    img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
-                .col-11
-                  .mt-3
-                  p Deben estar dentro de los límites de detección de los métodos analíticos utilizados por los laboratorios para garantizar mediciones precisas.
-        .col-lg-6.mb-1(data-aos="fade-down-left")
-          .tarjeta-avatar-b
-            .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
-              .p-1
-              .row
-                .col-1
-                  figure
-                    img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
-                .col-11
-                  .mt-3
-                  p Deben estar diseñados para proteger la salud pública y el medio ambiente.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Los resultados obtenidos se someten a un proceso de contraste o análisis en comparación con los niveles permitidos previamente establecidos con el fin de determinar la condición de un cuerpo de agua. Es fundamental que los valores de referencia recomendados cumplan con ciertos criterios:
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-6.mb-1(data-aos="fade-down-left")
+        .tarjeta-avatar-b
+          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
+            .p-1
+            .row
+              .col-1
+                figure
+                  img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
+              .col-11
+                .mt-3
+                p Deben estar respaldados y justificados desde una perspectiva científica sólida.
+      .col-lg-6.mb-1(data-aos="fade-down-left")
+        .tarjeta-avatar-b
+          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
+            .p-1
+            .row
+              .col-1
+                figure
+                  img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
+              .col-11
+                .mt-3
+                p Su implementación debe ser práctica y factible, considerando los recursos y capacidades disponibles.
+      .col-lg-6.mb-1(data-aos="fade-down-left")
+        .tarjeta-avatar-b
+          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
+            .p-1
+            .row
+              .col-1
+                figure
+                  img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
+              .col-11
+                .mt-3
+                p Deben estar dentro de los límites de detección de los métodos analíticos utilizados por los laboratorios para garantizar mediciones precisas.
+      .col-lg-6.mb-1(data-aos="fade-down-left")
+        .tarjeta-avatar-b
+          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
+            .p-1
+            .row
+              .col-1
+                figure
+                  img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
+              .col-11
+                .mt-3
+                p Deben estar diseñados para proteger la salud pública y el medio ambiente.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -516,6 +516,81 @@
               img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
             .col-11              
               p Otras sustancias que no se puedan remover con el tratamiento y que afecten la salud humana.
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12
+          p En el mismo decreto, y tal como se muestra en la siguiente tabla, se establecen los niveles permitidos para aguas de uso:
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-4
+          figure
+            img(src='@/assets/curso/temas/tema1/img16.svg', alt='Imagen decorativa')
+        .col-lg-4
+          ul.lista-ul
+            li 
+              i.fas.fa-circle.fa-2xs(style="color:#FFBF9A")
+              | Agrícola.
+            li 
+              i.fas.fa-circle.fa-2xs(style="color:#FFBF9A")
+              | Pecuario.
+            li 
+              i.fas.fa-circle.fa-2xs(style="color:#FFBF9A")
+              | Recreativo de contacto primario.
+            li 
+              i.fas.fa-circle.fa-2xs(style="color:#FFBF9A")
+              | Recreativos de contacto secundario.
+            li 
+              i.fas.fa-circle.fa-2xs(style="color:#FFBF9A")
+              | Estético.
+            li 
+              i.fas.fa-circle.fa-2xs(style="color:#FFBF9A")
+              | Preservación de fauna y flora.
+            li 
+              i.fas.fa-circle.fa-2xs(style="color:#FFBF9A")
+              | Vertimientos.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12.col-md-4.mb-4.mb-md-0
+        .titulo-sexto.color-acento-contenido.offset-1
+          h5 Tabla 2.
+          span  #[i  Valores de referencia permitidos de la calidad de agua para vertimientos a un cuerpo de agua]
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        table(border=1)
+          caption Nota. Tomada de MADS (2015).
+          thead(style="background-color:#FFAE7E;")
+            tr
+              th.text-center Referencia              
+              th.text-center Usuario existente
+              th.text-center Usuario nuevo
+          tbody
+          tr
+            td pH
+            td 5 a 9 unidades.
+            td 5 a 9 unidades.
+          tr
+            td Temperatura 	
+            td ≤ 40 °C.
+            td ≤ 40 °C.
+          tr
+            td Material flotante		
+            td Ausente.
+            td Ausente.
+          tr
+            td Grasas y aceites	
+            td Remoción ≥ 80 % en carga.
+            td Remoción ≥ 80 % en carga.
+          tr
+            td Sólidos suspendidos, domésticos o industriales
+            td Remoción ≥ 50 % en carga.
+            td Remoción ≥ 80 % en carga.
+          tr
+            td Demanda bioquímica de oxígeno para desechos domésticos
+            td Remoción ≥ 30 % en carga.
+            td Remoción ≥ 80 % en carga.
+          tr
+            td Demanda bioquímica de oxígeno para desechos industriales	
+            td Remoción ≥ 20 % en carga.
+            td Remoción ≥ 80 % en carga.
+
 
 </template>
 
