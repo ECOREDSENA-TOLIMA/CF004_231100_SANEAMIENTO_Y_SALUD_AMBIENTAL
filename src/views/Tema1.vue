@@ -58,8 +58,6 @@
                 i.fas.fa-check
                 | #[b Combinados:] físicos y químicos.
 
-
-
     Separador
     .row
       .col-xl-12       
@@ -90,7 +88,7 @@
         .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
           .col-lg-12.mb-1(data-aos="fade-down-left")
             .tarjeta-avatar-b
-              .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 80px")
+              .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;")
                 .p-1
                 .row
                   .col-1
@@ -101,7 +99,7 @@
                     p El agua se puede encontrar en la naturaleza en estado sólido, líquido y gaseoso.
           .col-lg-12.mb-1(data-aos="fade-down-left")
             .tarjeta-avatar-b
-              .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 80px")
+              .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;")
                 .p-1
                 .row
                   .col-1
@@ -112,7 +110,7 @@
                     p Es inolora, incolora, insípida.
           .col-lg-12.mb-1(data-aos="fade-down-left")
             .tarjeta-avatar-b
-              .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 80px")
+              .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;")
                 .p-1
                 .row
                   .col-1
@@ -123,7 +121,7 @@
                     p Su punto de congelación es a 0 °C (grados Celsius) mientras que el punto de ebullición es a 100 °C (al nivel del mar).
           .col-lg-12.mb-1(data-aos="fade-down-left")
             .tarjeta-avatar-b
-              .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 80px")
+              .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;")
                 .p-1
                 .row
                   .col-1
@@ -134,7 +132,7 @@
                     p Tiene la capacidad de absorber calor antes de que suba su temperatura. 
           .col-lg-12.mb-1(data-aos="fade-down-left")
             .tarjeta-avatar-b
-              .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 80px")
+              .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;")
                 .p-1
                 .row
                   .col-1
@@ -323,7 +321,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-1(data-aos="fade-down-left")
         .tarjeta-avatar-b
-          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
+          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;")
             .p-1
             .row
               .col-1
@@ -334,7 +332,7 @@
                 p Deben estar respaldados y justificados desde una perspectiva científica sólida.
       .col-lg-6.mb-1(data-aos="fade-down-left")
         .tarjeta-avatar-b
-          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
+          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;")
             .p-1
             .row
               .col-1
@@ -345,7 +343,7 @@
                 p Su implementación debe ser práctica y factible, considerando los recursos y capacidades disponibles.
       .col-lg-6.mb-1(data-aos="fade-down-left")
         .tarjeta-avatar-b
-          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
+          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;")
             .p-1
             .row
               .col-1
@@ -356,7 +354,7 @@
                 p Deben estar dentro de los límites de detección de los métodos analíticos utilizados por los laboratorios para garantizar mediciones precisas.
       .col-lg-6.mb-1(data-aos="fade-down-left")
         .tarjeta-avatar-b
-          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;height: 110px")
+          .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;")
             .p-1
             .row
               .col-1
@@ -377,106 +375,107 @@
           span  #[i  Valores de referencia permitidos de la calidad de agua para consumo humano y doméstico]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        table(border=1)
-          caption Nota. Tomada de MADS (2015).
-          thead(style="background-color:#FFAE7E;")
+        .tabla-a.color-acento-botones.mb-5        
+          table(border=1)
+            caption Nota. Tomada de MADS (2015).
+            thead(style="background-color:#FFAE7E;")
+              tr
+                th.text-center Referencia              
+                th.text-center Expresado como
+                th.text-center Valor (mg/L)
+            tbody
             tr
-              th.text-center Referencia              
-              th.text-center Expresado como
-              th.text-center Valor (mg/L)
-          tbody
-          tr
-            td Amoníaco
-            td N
-            td 1,0 
-          tr
-            td Arsénico
-            td As
-            td 0,05 
-          tr
-            td Bario
-            td Ba
-            td 1,0 
-          tr
-            td Cadmio
-            td Cd
-            td 0,01 
-          tr
-            td Cianuro
-            td CN-
-            td 0,2 
-          tr
-            td Cinc
-            td Zn
-            td 15,0 
-          tr
-            td Cloruros
-            td Cl-
-            td 250,0 
-          tr
-            td Cobre
-            td Cu
-            td 1,0 
-          tr
-            td Color 
-            td Color real
-            td 75 unidades, escala platino, cobalto 
-          tr
-            td Compuestos fenólicos
-            td Fenol 
-            td 0,002 
-          tr
-            td Cromo
-            td Cr+6
-            td 0,05 
-          tr
-            td Difeniles policlorados
-            td Concentración de agente activo
-            td No detectable 
-          tr
-            td Mercurio 
-            td Hg
-            td 0,002 
-          tr
-            td Nitratos
-            td N
-            td 10,0 
-          tr
-            td Nitritos
-            td N
-            td 1,0 
-          tr
-            td pH
-            td Unidades
-            td 5,0- 9,0 unidades 
-          tr
-            td Plata 
-            td Ag
-            td 0,05 
-          tr
-            td Plomo 
-            td Pb
-            td 0,05 
-          tr
-            td Selenio 
-            td Se
-            td 0,01 
-          tr
-            td Sulfatos
-            td SO=4
-            td 400,0 
-          tr
-            td Tensoactivos 
-            td Sustancias activas al azul de metileno
-            td 0,5 
-          tr
-            td Coliformes totales
-            td NMP
-            td 20,000 microorganismos/100 ml 
-          tr
-            td Coliformes fecales
-            td NMP
-            td 2000 microorganismos/100 ml  
+              td Amoníaco
+              td N
+              td 1,0 
+            tr
+              td Arsénico
+              td As
+              td 0,05 
+            tr
+              td Bario
+              td Ba
+              td 1,0 
+            tr
+              td Cadmio
+              td Cd
+              td 0,01 
+            tr
+              td Cianuro
+              td CN-
+              td 0,2 
+            tr
+              td Cinc
+              td Zn
+              td 15,0 
+            tr
+              td Cloruros
+              td Cl-
+              td 250,0 
+            tr
+              td Cobre
+              td Cu
+              td 1,0 
+            tr
+              td Color 
+              td Color real
+              td 75 unidades, escala platino, cobalto 
+            tr
+              td Compuestos fenólicos
+              td Fenol 
+              td 0,002 
+            tr
+              td Cromo
+              td Cr+6
+              td 0,05 
+            tr
+              td Difeniles policlorados
+              td Concentración de agente activo
+              td No detectable 
+            tr
+              td Mercurio 
+              td Hg
+              td 0,002 
+            tr
+              td Nitratos
+              td N
+              td 10,0 
+            tr
+              td Nitritos
+              td N
+              td 1,0 
+            tr
+              td pH
+              td Unidades
+              td 5,0- 9,0 unidades 
+            tr
+              td Plata 
+              td Ag
+              td 0,05 
+            tr
+              td Plomo 
+              td Pb
+              td 0,05 
+            tr
+              td Selenio 
+              td Se
+              td 0,01 
+            tr
+              td Sulfatos
+              td SO=4
+              td 400,0 
+            tr
+              td Tensoactivos 
+              td Sustancias activas al azul de metileno
+              td 0,5 
+            tr
+              td Coliformes totales
+              td NMP
+              td 20,000 microorganismos/100 ml 
+            tr
+              td Coliformes fecales
+              td NMP
+              td 2000 microorganismos/100 ml  
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p Además de cumplir con estos criterios, es importante que el cuerpo de agua no presente sustancias que imparten:
@@ -487,33 +486,36 @@
       .col-lg-8
         .cajon.color-primario.p-4.mb-4
           .row
-            .col-1
-              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
+            .col-1.desktop
+              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:60%;")
+            .col-1.movil
+              figure
+                img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')
             .col-11              
               p Olor o sabor a los tejidos.
           .row
             .col-1
-              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
+              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:60%;")
             .col-11              
               p Turbiedad o color.
           .row
             .col-1
-              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
+              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:60%;")
             .col-11              
               p Películas o capas de grasas o aceites flotantes.
           .row
             .col-1
-              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
+              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:60%;")
             .col-11              
               p Material flotante (sólidos suspendidos).
           .row
             .col-1
-              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
+              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:60%;")
             .col-11
               p Radioisótopos.
           .row
             .col-1
-              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
+              img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:60%;")
             .col-11              
               p Otras sustancias que no se puedan remover con el tratamiento y que afecten la salud humana.
 

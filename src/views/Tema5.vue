@@ -8,7 +8,7 @@
       h1 Productos químicos
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p os productos químicos son sustancias fabricadas mediante procesos industriales y tienen una presencia significativa en la vida cotidiana. Son ampliamente utilizados en diversas aplicaciones, desde productos de limpieza y detergentes hasta insecticidas, plásticos y ambientadores. Además, se encuentran en sectores como la peluquería, la veterinaria, la jardinería, la fotografía, la construcción, la tintorería y muchas otras industrias.
+        p Los productos químicos son sustancias fabricadas mediante procesos industriales y tienen una presencia significativa en la vida cotidiana. Son ampliamente utilizados en diversas aplicaciones, desde productos de limpieza y detergentes hasta insecticidas, plásticos y ambientadores. Además, se encuentran en sectores como la peluquería, la veterinaria, la jardinería, la fotografía, la construcción, la tintorería y muchas otras industrias.
         .cajon.tarj-color.p-4.mb-4
           p En Colombia, la clasificación de los productos químicos se rige por el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos (SGA) de la Organización de las Naciones Unidas. Este sistema se basa en criterios que incluyen la identificación de los peligros asociados con una sustancia química o mezcla, la revisión de datos sobre los riesgos y la determinación del grado de peligrosidad. Además, se asignan símbolos y palabras de advertencia para comunicar de manera efectiva los peligros asociados con estos productos.
 

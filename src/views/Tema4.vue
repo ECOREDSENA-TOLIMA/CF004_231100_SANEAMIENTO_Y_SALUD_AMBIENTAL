@@ -102,7 +102,7 @@
                       img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width: 100%;")
                   .col-11
                     .mt-3
-                    p.p-2 #[b Temperatura] para medir la temperatura del agua.
+                    p.p-2 #[b Temperatura:] para medir la temperatura del agua.
           .col-lg-12.mb-1(data-aos="fade-down-left")
             .tarjeta-avatar-b
               .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;")
