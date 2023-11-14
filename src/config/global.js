@@ -353,20 +353,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Lizeth Daniela Reinoso Diaz',
+          nombre: 'Diana Carolina Sánchez Rodríguez ',
           cargo: 'Experta temática',
           centro: 'Regional Tolima. Centro Agropecuario La Granja',
         },
         {
-          nombre: 'Oscar Absalón Guevara',
+          nombre: 'Gustavo Santis Mancipe',
           cargo: 'Diseñador instruccional',
-          centro:
-            'Regional Santander. Centro de la Industria, la Empresa y los Servicios – CIES',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial.',
         },
         {
-          nombre: 'Ana Catalina Córdoba Sus',
+          nombre: 'Carolina Coca Salazar',
           cargo: 'Asesora metodológica',
-          centro: 'Regional Distrito Capital. Centro de Diseño y Metrología',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología. ',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
@@ -375,17 +374,23 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura ',
         },
         {
-          nombre: 'Julia Isabel Roberto',
+          nombre: 'José Gabriel Ortiz Abella',
           cargo: 'Correctora de estilo',
-          centro: 'egional Distrito Capital. Centro de Diseño y Metrología',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología.',
         },
         {
-          nombre: 'Humberto Arias Díaz',
+          nombre: 'Jaslyth Juliana Eraso Casanova ',
+          cargo: 'Experta Temática',
+          centro:
+            'Regional Putumayo - Centro Agroforestal y Acuícola Arapaima. ',
+        },
+        {
+          nombre: 'Sergio Augusto Ardila Ortiz',
           cargo: 'Diseñador instruccional',
           centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Maria Inés Machado López',
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
           cargo: 'Metodóloga',
           centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
@@ -395,8 +400,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Yobanni Penagos',
-          cargo: 'Diseñador web',
+          nombre: 'Luis Fernando Botero Mendoza',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Regional Tolima  Centro de Comercio y Servicios',
         },
         {
@@ -410,6 +415,11 @@ export default {
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
+          nombre: 'Maria Alejandra Briceño Vera',
+          cargo: 'Producción',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
           nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Producción audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
@@ -419,19 +429,24 @@ export default {
           cargo: 'Animador y Producción audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
+        {
+          nombre: 'Veimar Celis Melendez',
+          cargo: 'Actividad Didactica',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Mauricio Oviedo',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          nombre: 'Gilberto Naranjo Farfán',
+          cargo: 'Validación de contenidos accesibles',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Gilberto Naranjo Farfán',
-          cargo: 'Validación de contenidos accesibles',
+          nombre: 'Javier Mauricio Oviedo',
+          cargo: 'Validación y vinculación en plataforma LMS',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],

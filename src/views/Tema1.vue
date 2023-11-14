@@ -23,17 +23,21 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img2.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema1/img2_1.png", alt="Imagen decorativa")
           .crd_hover_txt--body
-            h4.mb-3 Agua cruda o superficial
+            .icono  
+              img(src="@/assets/curso/temas/tema1/flecha.svg", alt="Imagen decorativa")
+            h4.mb-3 Agua cruda o superficial                    
             p.mb-0 Son todos aquellos cuerpos de agua que se encuentran en la superficie de la Tierra y que se forman por escorrentía producto de las precipitaciones o por el afloramiento de aguas subterráneas son aguas en estado natural, que no han sido sometidas a procesos de tratamiento. 
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img3.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema1/img3_1.png", alt="Imagen decorativa")
           .crd_hover_txt--body
+            .icono  
+              img(src="@/assets/curso/temas/tema1/flecha.svg", alt="Imagen decorativa")
             h4.mb-3 Agua tratada o potable
             p.mb-3 Es el agua que se utiliza para labores domésticas en general, como consumo humano, higiene personal, preparar alimentos y lavado de carros, casas, pisos.
             p.mb-0 Según la Organización Mundial de la Salud (OMS, 2011), el agua potable se considera apta para el consumo humano cuando es incolora, inolora, insípida.
@@ -43,8 +47,10 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img4.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema1/img4_1.png", alt="Imagen decorativa")
           .crd_hover_txt--body
+            .icono  
+              img(src="@/assets/curso/temas/tema1/flecha.svg", alt="Imagen decorativa")
             h4.mb-3 Agua residual
             p.mb-0 Resultan de actividades antropogénicas. Su falta o indebido tratamiento puede generar graves problemas de contaminación alternando los ciclos biogeoquímicos.
             ul.lista-ul
