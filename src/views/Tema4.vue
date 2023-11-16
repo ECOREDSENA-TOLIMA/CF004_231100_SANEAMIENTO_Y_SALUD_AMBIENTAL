@@ -8,9 +8,9 @@
       h1 Equipos de muestreo de aguas
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         p En los muestreos convencionales para la determinación de los parámetros fisicoquímicos y biológicos que definen la calidad de un cuerpo de agua, es necesario tener en cuenta las siguientes recomendaciones:
-        .cajon.color-primario.p-4.mb-4
+        .cajon.color-primario.p-4.mb-4(data-aos="flip-right")
           .row
             .col-1
               img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
@@ -32,19 +32,19 @@
             .col-11              
                 p Usar equipos que sean de fácil manejo y que garanticen además de la toma de la muestra, la seguridad del operario.          
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema4/img1.png', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Según el sitio donde se realizará el muestreo, se definen los equipos manuales a utilizar:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0
+      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-right")
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Tabla 3.
           span  #[i  Equipos para la obtención de la muestra de agua ]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         table(border=1)
           thead(style="background-color:#FFAE7E;")
             tr
@@ -59,13 +59,13 @@
             td Las botellas muestreadoras tipo #[i Niskin], #[i Van Dorn] y #[i Ruttner], son dispositivos utilizados para tomar muestras de agua en diferentes profundidades de cuerpos de agua como océanos, lagos o ríos. Estas botellas tienen un diseño que permite la recolección de muestras a profundidades específicas sin que se mezclen con las capas de agua circundantes.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p También existen los equipos automáticos de muestreo de agua, que son de gran utilidad en investigaciones y monitoreo ambiental, ya que permiten obtener datos de manera continua y precisa. Estos equipos se dividen en dos categorías principales, según sus criterios de funcionamiento:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema4/img2.png', alt='Imagen decorativa')
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         .cajon.tarj-color.p-4.mb-4
           ol.lista-ol
             li
@@ -75,7 +75,7 @@
               span.text-bold b). 
               | #[b Basados en el volumen de muestra:] estos equipos toman muestras de agua en función de las variaciones de flujo en el cuerpo de agua. Responden a cambios en la velocidad o caudal del agua, lo que garantiza que la muestra sea representativa incluso en condiciones de flujo variable.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Además de la recolección de muestras, se utilizan sondas multiparamétricas que se sumergen directamente en el lugar de muestreo para medir varios parámetros fisicoquímicos en tiempo real. Algunos de los parámetros que pueden medirse con estas sondas incluyen:
     
     .row.justify-content-center.align-items-center.mb-5
@@ -137,11 +137,11 @@
                     .mt-3
                     p.p-2 #[b Conductividad eléctrica:] para evaluar la capacidad del agua para conducir electricidad, lo que está relacionado con la concentración de sales disueltas.
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema4/img3.png', alt='Imagen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema4/img4.png' alt='AvatarTop')
@@ -149,7 +149,7 @@
             .p-4
               p En cuanto a los equipos de muestreo biológico, estos varían según el grupo de organismos que se desee analizar. Por ejemplo, pueden utilizarse redes de plancton para recolectar organismos microscópicos, trampas para atrapar organismos bentónicos en el fondo del agua, o equipos de pesca eléctrica para estudiar poblaciones de peces. La elección del equipo depende de los objetivos específicos de la investigación biológica.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p En resumen, estos equipos automáticos y sondas son fundamentales en la recopilación de datos continuos y precisos para la monitorización y la investigación de cuerpos de agua, lo que contribuye a comprender mejor la calidad del agua y los ecosistemas acuáticos.
 
     Separador
@@ -163,7 +163,7 @@
         p Las fichas técnicas de los equipos son documentos esenciales para comprender y utilizar adecuadamente los dispositivos utilizados en el muestreo y análisis de agua. Estas fichas contienen información detallada sobre las especificaciones técnicas y las funciones de manejo de los equipos. Algunos de los datos comunes que se encuentran en una ficha técnica incluyen:
     
     .row.justify-content-center.align-items-center.mb-5
-      .cajon.color-primario.p-4.mb-4
+      .cajon.color-primario.p-4.mb-4(data-aos="flip-right")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
             .row
@@ -210,16 +210,16 @@
             figure
               img(src='@/assets/curso/temas/tema4/img5.svg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Estas fichas técnicas son herramientas valiosas para los profesionales que trabajan con equipos de muestreo y análisis de agua, ya que les permiten comprender a fondo las capacidades y limitaciones de los dispositivos y garantizar su uso eficiente y seguro. Además, proporcionan una referencia útil para el mantenimiento y la calibración de los equipos a lo largo del tiempo. A continuación, se presenta un ejemplo de cómo podría lucir una ficha técnica de un equipo de campo: 
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0
+      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-right")
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Tabla 4.
           span  #[i  Ejemplo ficha de campo de un equipo de campo]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         table(border=1)
           thead
             tr
@@ -289,13 +289,13 @@
       h2.my-5 4.2 Manuales técnicos de los equipos
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Los manuales técnicos son documentos esenciales que proporcionan instrucciones detalladas sobre cómo utilizar y mantener un equipo de manera segura y efectiva. Estos manuales suelen ser elaborados por el fabricante o por el personal calificado de la empresa que adquiere el equipo. Aquí hay algunos elementos clave que suelen incluirse en los manuales técnicos de los equipos de muestreo y análisis de agua:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema4/img6.svg', alt='Imagen decorativa')
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         .cajon.tarj-color.p-4.mb-4
           ul.lista-ul
             li 
@@ -332,7 +332,7 @@
               i.lista-ul__vineta
               | #[b Referencias y recursos:] cualquier otra documentación relevante, como hojas de datos, certificados de calibración, y datos de contacto del fabricante o proveedor.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Estos manuales son valiosos recursos para garantizar que los equipos se utilicen adecuadamente, se mantengan en buen estado y se obtengan resultados precisos y confiables en las operaciones de muestreo y análisis de agua.
 
     Separador
@@ -342,7 +342,7 @@
       h2.my-5 4.3 Técnicas de mantenimiento
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p El mantenimiento de los equipos utilizados en las operaciones de muestreo y análisis del agua es fundamental para asegurar la precisión y confiabilidad de los resultados, así como para garantizar la seguridad de los trabajadores y la eficiencia operativa. Algunos de los beneficios clave del mantenimiento de equipos son:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.mb-1(data-aos="fade-down-left")
@@ -413,7 +413,7 @@
                 p.p-2 #[b Eficiencia operativa:] los equipos en buen estado operan de manera más eficiente, lo que puede traducirse en ahorros de tiempo y recursos en el proceso de muestreo y análisis de agua.                
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p El mantenimiento de equipos puede ser clasificado en diferentes tipos, dependiendo de la estrategia y los objetivos de mantenimiento. Los principales tipos de mantenimiento incluyen:
     .tarjeta.tarjeta-verde.p-4
       SlyderA(tipo="b")(data-aos="flip-right")
@@ -469,11 +469,11 @@
       h2.my-5 4.4 Técnicas de calibración
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p La calibración de equipos utilizados en el muestreo y análisis de agua es un proceso esencial para garantizar la precisión y confiabilidad de las mediciones. Algunas de las técnicas comunes de calibración incluyen:
     .cajon.tarj-color.p-4.mb-4      
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-8
+        .col-lg-8(data-aos="flip-right")
           .row
             .col-1
               img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
@@ -504,7 +504,7 @@
             img(src='@/assets/curso/temas/tema4/img12.svg', alt='Imagen decorativa')
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/imginte.svg' alt='AvatarTop')

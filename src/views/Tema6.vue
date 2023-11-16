@@ -7,10 +7,10 @@
         span 6
       h1 Seguridad y salud en el trabajo
     .row.justify-content-center.align-items-center.mb-5      
-      .col-lg-4
+      .col-lg-4(data-aos="flip-right")
         figure
           img(src='@/assets/curso/temas/tema6/img1.png', alt='Imagen decorativa')
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         p El Sistema de Gestión de Seguridad y Salud en el Trabajo (SGSST) es una iniciativa promovida por el Ministerio del Trabajo, diseñada para establecer un proceso que garantice la protección de los trabajadores en el desempeño de sus actividades laborales. Este sistema se fundamenta en la mejora continua y tiene como propósito principal anticipar, identificar, evaluar y controlar los riesgos que puedan comprometer la seguridad y la salud de los empleados en su entorno laboral. Su enfoque se centra en:
         .cajon.tarj-color.p-4.mb-4
           ol.lista-ol
@@ -21,10 +21,10 @@
               span.text-bold b)
               | La salvaguardia y el fomento de la salud de los trabajadores.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p El SGSST busca, en última instancia, crear entornos laborales seguros y saludables, donde los empleados puedan desarrollar sus tareas con la menor exposición posible a riesgos y con el respaldo de medidas de protección y promoción de su bienestar. El enfoque de este sistema abarca dos dimensiones fundamentales:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         .cajon.color-primario.p-4.mb-4
           ol.lista-ol
             li
@@ -33,11 +33,11 @@
             li
               span.text-bold b)
               | #[b Higiene y seguridad industrial:] en esta dimensión, se llevan a cabo actividades encaminadas a identificar, evaluar y controlar los agentes contaminantes y los factores de riesgo que puedan afectar tanto la salud como la seguridad de los trabajadores. Esto incluye la implementación de medidas para prevenir accidentes laborales, así como la gestión de sustancias peligrosas y condiciones de trabajo que puedan poner en riesgo la integridad física de los empleados.
-      .col-lg-4
+      .col-lg-4(data-aos="flip-right")
         figure
           img(src='@/assets/curso/temas/tema6/img2.svg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p En conjunto, estas dimensiones buscan evaluar y gestionar los riesgos asociados a la actividad laboral, entendiendo el riesgo como la posibilidad de que un trabajador sufra daños como resultado de sus tareas en el entorno de trabajo. La gestión de riesgos es esencial para eliminar o reducir al mínimo las consecuencias perjudiciales para la salud de los empleados, así como para proteger a los clientes y preservar la integridad de la organización.
     Separador
     .row
@@ -46,15 +46,15 @@
       h2.my-5 6.1 Clases de riesgos
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Los riesgos laborales en Colombia están clasificados en una escala del 1 al 5, según el Decreto 1295 de 1994, tomando en cuenta el nivel de exposición y los factores que los generan. A continuación, se describen estas clases de riesgos:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0
+      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-right")
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Tabla 5.
           span  #[i  Clasificación de riesgos en Colombia]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .tabla-b
           table(border=1)
             thead(style="background-color:#FFAE7E;")
@@ -91,7 +91,7 @@
       h2.my-5 6.2 Métodos de prevención
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Las acciones preventivas son fundamentales para que las empresas puedan gestionar eficazmente los riesgos laborales y evitar que ocurran accidentes o enfermedades relacionadas con el trabajo. Estas acciones incluyen:
     .tarjeta.tarjeta-verde.p-4
       SlyderA(tipo="b")(data-aos="flip-right")
@@ -152,11 +152,11 @@
       h2.my-5 6.3 Elementos de protección individual
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Los Elementos de Protección Individual (EPI) son esenciales para proteger la integridad de los trabajadores en sus labores y reducir los riesgos asociados al trabajo. Estos elementos varían según la parte del cuerpo que se busca proteger. Algunos ejemplos de EPI incluyen:
     
     .row.justify-content-center
-      .col-lg-6
+      .col-lg-6(data-aos="flip-right")
         ImagenInfograficaB.color-acento-botones
           template(v-slot:imagen)
             figure
@@ -305,7 +305,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema6/img16.svg', alt='imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5.mt-4
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/imginte.svg' alt='AvatarTop')

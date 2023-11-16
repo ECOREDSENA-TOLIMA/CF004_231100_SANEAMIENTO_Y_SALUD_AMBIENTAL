@@ -7,7 +7,7 @@
         span 7
       h1 Normatividad ambiental
     
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema7/img1.png')})`}"
       )
@@ -18,9 +18,9 @@
         p Esta normatividad suele abordar diversas áreas, como la calidad del agua, la gestión de aguas residuales, la protección de fuentes de agua, la conservación de ecosistemas acuáticos, la promoción de prácticas sostenibles en la agricultura y la industria, y la participación ciudadana en la gestión del agua, entre otros aspectos.
    
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p En cada país, las leyes y regulaciones específicas pueden variar, pero en general, la normatividad ambiental relacionada con el agua busca equilibrar las necesidades humanas con la conservación de la biodiversidad y la protección de los ecosistemas acuáticos. Además, promueve la eficiencia en el uso del agua y fomenta la adopción de tecnologías y prácticas que minimicen el impacto ambiental.
-    .cajon.color-secundario.p-4.mb-4
+    .cajon.color-secundario.p-4.mb-4(data-aos="flip-right")
       p El cumplimiento de estas normativas es fundamental para preservar la calidad y disponibilidad del agua para las generaciones futuras y garantizar un entorno saludable para todas las formas de vida que dependen de este recurso.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -60,24 +60,24 @@
     #t_7_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 7.1 Calidad del agua
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p La calidad del agua es un aspecto de vital importancia para la salud humana y la preservación del medio ambiente. En Colombia, se han establecido normativas y decretos que regulan y supervisan la gestión y control de la calidad del agua en sus diferentes usos. Dos decretos clave en este contexto son el Decreto 1575 de 2007 y el Decreto 1975 de 2015.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos="flip-right")
         figure
           img(src='@/assets/curso/temas/tema7/img3.png', alt='Imagen decorativa')
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         .cajon.tarj-color.p-4.mb-4
           p El Decreto 1575 de 2007 se enfoca específicamente en garantizar la seguridad del agua potable destinada al consumo humano. Define el agua potable como aquella que cumple con las condiciones necesarias para ser segura y saludable en su uso en actividades cotidianas, como beber, cocinar y asearse. Además, este decreto establece las responsabilidades de diversas entidades, desde empresas prestadoras de servicios hasta autoridades de salud y medio ambiente, para llevar a cabo el control y vigilancia de la calidad del agua a nivel local, departamental y nacional.
     .row.justify-content-center.align-items-center.mb-5      
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         .cajon.color-primario.p-4.mb-4
           p Por otro lado, el Decreto 1975 de 2015 aborda una perspectiva más amplia de la gestión del recurso hídrico. Este decreto regula todas las normas relacionadas con el agua en sus diferentes estados y cauces, considerando aspectos como el aprovechamiento, la protección y la declaración de reservas. Además, aborda las condiciones para la construcción de obras hidráulicas que garanticen un uso eficiente y responsable del agua.
-      .col-lg-4
+      .col-lg-4(data-aos="flip-right")
         figure
           img(src='@/assets/curso/temas/tema7/img4.png', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p En resumen, estos decretos son fundamentales para asegurar la calidad y disponibilidad del agua en Colombia, protegiendo tanto la salud de la población como la sostenibilidad de los ecosistemas acuáticos. Su cumplimiento es esencial para mantener un equilibrio entre las necesidades humanas y la conservación del medio ambiente en relación con este recurso vital.
     Separador
     .row
@@ -85,14 +85,14 @@
     #t_7_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 7.2 Vertimientos
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Los vertimientos de aguas residuales son un tema crucial en la gestión ambiental y la regulación de la calidad del agua en Colombia. Estos vertimientos son el resultado de las actividades humanas y pueden tener un impacto significativo en la calidad del agua y el medio ambiente si no se gestionan adecuadamente.
         p El Decreto 1975 de 2015 establece una clasificación de los vertimientos en función de su uso, reconociendo tres categorías principales:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos="flip-right")
         figure
           img(src='@/assets/curso/temas/tema7/img5.png', alt='Imagen decorativa')
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         .cajon.color-primario.p-4.mb-4
           ol.lista-ol
             li
@@ -105,17 +105,17 @@
               span.text-bold c) 
               | #[B Industrial:] las actividades industriales suelen generar aguas residuales con una variedad de contaminantes, desde químicos hasta materia orgánica. La regulación de los vertimientos industriales es especialmente importante para prevenir la contaminación del agua y garantizar que las empresas cumplan con estándares ambientales.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p El Decreto también establece disposiciones relacionadas con concesiones y permisos para realizar vertimientos, prohibiciones de ciertas prácticas perjudiciales para el agua, sanciones en caso de incumplimiento, caducidad de permisos, y sistemas de control y vigilancia para monitorear y hacer cumplir estas regulaciones.
         p Es fundamental contar con una regulación y normativa sólida que establezca los parámetros de calidad del agua y las pautas para los vertimientos, con el fin de proteger tanto la salud pública como el medio ambiente en Colombia. Aquí se presenta un resumen de algunas de las normas más relevantes asociadas a estos aspectos:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0
+      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-right")
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Tabla 6.
           span  #[i  Normas asociadas a parámetros de calidad y vertimiento de agua]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .tabla-b
           table(border=1)
             thead(style="background-color:#FFAE7E;")

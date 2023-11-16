@@ -7,7 +7,7 @@
         span 2
       h1 Muestreo de agua
     
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-left")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img1.png')})`}"
       )
@@ -23,7 +23,7 @@
       h2.my-5 2.1 Métodos de muestreo
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-down-left")
         p La selección de los métodos de muestreo dependerá de las situaciones y de los objetivos que se han propuesto. Estos métodos pueden ser:
 
     .tarjeta.tarjeta-verde.p-4
@@ -82,7 +82,7 @@
       h2.my-5 2.2 Tipos de alícuotas y recipientes
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="fade-down-left")
         p Las alícuotas son porciones de muestras que se toman en el sitio de muestreo y mantienen las propiedades físicas y químicas de la sustancia original.  En el caso de muestreos de aguas residuales, estas alícuotas son esenciales. Para recolectar estas alícuotas, se utilizan recipientes específicos que deben cumplir ciertos criterios:
         .row
           .col-1
@@ -114,11 +114,11 @@
         figure
           img(src='@/assets/curso/temas/tema2/img7.png', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-down-left")
         p En algunos casos, se requieren recipientes especiales para muestras con características particulares. Por ejemplo, muestras microbiológicas pueden necesitar recipientes estériles y oscuros para protegerlas de la luz y la temperatura ambiente.
 
     row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-down-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/imginte.svg' alt='AvatarTop')

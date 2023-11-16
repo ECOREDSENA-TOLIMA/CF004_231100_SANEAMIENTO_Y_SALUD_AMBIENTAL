@@ -7,39 +7,39 @@
         span 5
       h1 Productos químicos
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         p Los productos químicos son sustancias fabricadas mediante procesos industriales y tienen una presencia significativa en la vida cotidiana. Son ampliamente utilizados en diversas aplicaciones, desde productos de limpieza y detergentes hasta insecticidas, plásticos y ambientadores. Además, se encuentran en sectores como la peluquería, la veterinaria, la jardinería, la fotografía, la construcción, la tintorería y muchas otras industrias.
         .cajon.tarj-color.p-4.mb-4
           p En Colombia, la clasificación de los productos químicos se rige por el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos (SGA) de la Organización de las Naciones Unidas. Este sistema se basa en criterios que incluyen la identificación de los peligros asociados con una sustancia química o mezcla, la revisión de datos sobre los riesgos y la determinación del grado de peligrosidad. Además, se asignan símbolos y palabras de advertencia para comunicar de manera efectiva los peligros asociados con estos productos.
 
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema5/img1.png', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Según el SGA, algunas de las clases de peligros más comunes incluyen:
     
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Peligros físicos")
-        .col-md-6.mb-4.mb-md-0
+        .col-md-6.mb-4.mb-md-0(data-aos="flip-right")
           p Estos peligros se relacionan con las propiedades físicas de los productos químicos y su capacidad para causar daños debido a su inflamabilidad, explosividad, reactividad química, presión o temperatura. Ejemplos de subclases incluyen inflamables, explosivos, gases comprimidos, sustancias oxidantes, etc.
       
         .col-md-6
-          figure
+          figure(data-aos="flip-right")
             img(src='@/assets/curso/temas/tema5/img2.png', alt='Imagen decorativa')
       .row(titulo="Peligros para la salud")
-        .col-md-6.mb-4.mb-md-0
+        .col-md-6.mb-4.mb-md-0(data-aos="flip-right")
           p Estos peligros están asociados con los efectos adversos que los productos químicos pueden tener en la salud humana o animal. Esto incluye categorías como toxicidad aguda, irritación, sensibilización cutánea, carcinogenicidad, toxicidad reproductiva, entre otros.
       
         .col-md-6
-          figure
+          figure(data-aos="flip-right")
             img(src='@/assets/curso/temas/tema5/img3.png', alt='Imagen decorativa')
       .row(titulo="Para el medio ambiente")
         .col-md-6.mb-4.mb-md-0
           p Estos peligros se refieren a la capacidad de los productos químicos para causar daños al medio ambiente, como la toxicidad para los organismos acuáticos, la persistencia en el medio ambiente o la bioacumulación.
       
         .col-md-6
-          figure
+          figure(data-aos="flip-right")
             img(src='@/assets/curso/temas/tema5/img4.png', alt='Imagen decorativa')
       .row(titulo="Para la salud física")
         .col-md-6.mb-4.mb-md-0
@@ -47,11 +47,11 @@
 
       
         .col-md-6
-          figure
+          figure(data-aos="flip-right")
             img(src='@/assets/curso/temas/tema5/img5.png', alt='Imagen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5.mt-4
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/imginte.svg' alt='AvatarTop')
@@ -59,24 +59,24 @@
             .p-4
             p.p-2 Es fundamental proporcionar información clara y precisa sobre los peligros asociados a los productos químicos para garantizar su uso seguro. Las etiquetas y las Fichas de Datos de Seguridad (FDS) son herramientas esenciales para comunicar estos riesgos a los trabajadores, los consumidores y aquellos que manipulan productos químicos.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Las etiquetas suelen incluir símbolos, palabras de advertencia e indicaciones de peligro que indican la naturaleza de los riesgos asociados al producto químico. Esto permite a las personas tomar precauciones adecuadas al manipular, almacenar o desechar estos productos. A continuación, se muestran las indicaciones de peligro utilizadas por el SGA:
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0
+      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-right")
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Figura 1.
           span  #[i  Imágenes utilizadas por el SGA con indicaciones de peligro]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos="flip-right")
         figure
           img(src='@/assets/curso/temas/tema5/img6.svg', alt='En la figura 1 se muestran los indicadores de peligro según el SGA.')
         figcaption Nota: MADS (2017).
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
       p Además del etiquetado y la ficha, algunos productos tienen recomendaciones como: 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         .cajon.tarj-color.p-4.mb-4
           ul.lista-ul
             li 
@@ -114,7 +114,7 @@
               | Evitar utilizar agua para limpiar derrames (si el producto es inflamable).
 
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema5/img7.svg', alt='Imagen decorativa')
 
 
@@ -125,12 +125,12 @@
       h2.my-5 5.1 Método de medición
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Los métodos que se utilizan para medir los productos químicos son:
     
 
     .row.justify-content-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0.tarjeta
+      .col-lg-4.mb-4.mb-lg-0.tarjeta(data-aos="flip-right")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-11.tarjeta-verde 
             figure
@@ -207,15 +207,15 @@
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 5.2 Hoja de seguridad
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Las hojas de seguridad, también conocidas como Fichas de Datos de Seguridad (FDS) o Material Safety Data Sheets (MSDS) en inglés, son documentos esenciales que proporcionan información detallada sobre los peligros asociados con un producto químico o su mezcla. Estas hojas se utilizan para comunicar de manera efectiva la información crítica relacionada con la seguridad y el manejo de productos químicos peligrosos. A continuación, se describen algunos de los aspectos clave que se incluyen en una hoja de seguridad:
     
     .cajon.tarj-color.p-4.mb-4
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4
+        .col-lg-4(data-aos="flip-right")
           figure
             img(src="@/assets/curso/temas/tema5/img11.svg", alt="Imagen decorativa")
-        .col-lg-8
+        .col-lg-8(data-aos="flip-right")
           .row
             .col-1
               img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
@@ -253,7 +253,7 @@
                 p #[b Almacenamiento y manipulación segura:] se proporcionan recomendaciones sobre cómo almacenar y manipular el producto de manera segura, incluyendo condiciones de temperatura y ventilación.
     .cajon.color-primario.p-4.mb-4
       .row.justify-content-center.align-items-center.mb-5        
-        .col-lg-8
+        .col-lg-8(data-aos="flip-right")
           .row
             .col-1
               img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
@@ -295,10 +295,10 @@
             .col-11              
                 p #[b Otra información:] cualquier otra información relevante que no haya sido cubierta en las secciones anteriores.
         .col-lg-4
-          figure
+          figure(data-aos="flip-right")
             img(src="@/assets/curso/temas/tema5/img12.svg", alt="Imagen decorativa")
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Las hojas de seguridad son fundamentales para garantizar un manejo seguro de productos químicos peligrosos en diversos entornos, desde laboratorios hasta lugares de trabajo industriales. Es esencial que el personal que trabaja con productos químicos tenga acceso a estas hojas y comprenda su contenido para minimizar los riesgos asociados con su uso. Además, estas hojas deben actualizarse periódicamente para reflejar cualquier cambio en la información del producto.
     Separador
     .row
@@ -306,7 +306,7 @@
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 5.3 Fichas técnicas
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         p Las fichas técnicas son documentos esenciales para proporcionar información clave sobre un producto químico en un formato conciso y fácil de entender. Esta información es fundamental para garantizar el uso seguro y adecuado de productos químicos en diversos entornos, desde lugares de trabajo industriales hasta laboratorios y hogares. A continuación, se mencionan los elementos más comunes que se incluyen en una ficha técnica de un producto químico:
         .cajon.color-primario.p-4.mb-4
           ul.lista-ul
@@ -332,10 +332,10 @@
               i.lista-ul__vineta
               | #[b Ficha técnica:] incluyendo su fecha de revisión.
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src="@/assets/curso/temas/tema5/img13.png", alt="Imagen decorativa")
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema5/img14.png' alt='AvatarTop')
@@ -348,11 +348,11 @@
     #t_5_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 5.4 Almacenamiento
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p El almacenamiento adecuado de productos químicos es esencial para garantizar la seguridad en el lugar de trabajo, prevenir accidentes y minimizar los riesgos para la salud humana y el medio ambiente. 
         p Se pueden clasificar de varias formas; por ejemplo:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos="flip-right")
         figure
           img(src="@/assets/curso/temas/tema5/img15.png", alt="Imagen decorativa")
       .col-lg-4
@@ -374,12 +374,12 @@
               i.lista-ul__vineta
               | Gaseosos.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Sin embargo, la principal y más segura forma de clasificarlos es acorde a su descripción:
     .cajon.tarj-color.p-4.mb-4
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-2        
-          figure
+          figure(data-aos="flip-right")
             img(src='@/assets/curso/temas/tema5/img16.svg', alt='Imagen decorativa')
         .col-lg-1
         .col-lg-4
@@ -408,10 +408,10 @@
               i.fas.fa-circle.fa-2xs
               | Sustancias líquidas no volátiles peligrosas.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Por otra parte, se deben almacenar:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         .cajon.color-primario.p-4.mb-4
           ul.lista-ul
             li 
@@ -446,7 +446,7 @@
               | Contar sistema de detraje seguro en caso de derrames.
 
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema5/img17.svg', alt='Imagen decorativa')
 </template>
 

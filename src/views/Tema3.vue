@@ -70,12 +70,12 @@
                     .mt-3
                     p.p-2 #[b Muestras especiales:] estas muestras se utilizan para analizar parámetros específicos o para situaciones particulares. Pueden requerir recipientes especiales, como muestras microbiológicas que necesitan envases estériles y oscuros.
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema3/img1.png', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .tarjeta-avatar-b.mb-5
-          .tarjeta-avatar-b__img
+          .tarjeta-avatar-b__img(data-aos="flip-right")
             img(src='@/assets/curso/temas/tema3/img2.png' alt='AvatarTop')
           .tarjeta.tarj-color
             .p-4
@@ -90,7 +90,7 @@
         p Es importante destacar que una vez que se toma una muestra de agua en el sitio de muestreo, las condiciones del agua pueden cambiar a medida que pasa el tiempo debido a una serie de factores, lo que puede afectar la precisión de los resultados de análisis posteriores. Estos factores incluyen:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema3/img3.png', alt='Imagen decorativa')
       .col-lg-8
         .cajon.tarj-color.p-4.mb-4
@@ -194,7 +194,7 @@
       .col-lg-12
         p Para prevenir que estos factores afecten la calidad de la muestra, es importante aplicar la preservación de la muestra inmediatamente después de su recolección. La elección del preservante adecuado dependerá del parámetro para el cual se haya tomado la muestra:
     .row.justify-content-center.align-items-center.mb-5      
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         .cajon.tarj-color.p-4.mb-4
           ul.lista-ul
             li 

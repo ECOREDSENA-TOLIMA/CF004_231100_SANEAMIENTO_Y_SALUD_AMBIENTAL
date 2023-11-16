@@ -11,7 +11,7 @@
       .col-lg-4
         figure(data-aos="flip-right")
           img(src="@/assets/curso/temas/tema1/img1.png", alt="Imagen decorativa")
-      .col-lg-8
+      .col-lg-8(data-aos="flip-left")
         p  El agua se considera el elemento fundamental en nuestro planeta, ya que desempeña un papel crítico en una amplia gama de procesos tanto físicos como químicos. Además, sirve como hábitat esencial para una variedad de organismos acuáticos y semiacuáticos, así como para otros seres que dependen directa o indirectamente de este recurso vital.
         p Sin embargo, a lo largo del tiempo y debido a diversos factores como la actividad humana, cambios en las condiciones geofísicas y químicas, la ubicación geográfica y la presencia o ausencia de flora y fauna, las características y la composición del agua pueden experimentar variaciones significativas.
     
@@ -70,7 +70,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.1 Propiedades
 
-    .cajon.tarj-color.p-4.mb-4      
+    .cajon.tarj-color.p-4.mb-4(data-aos="flip-left")
       p El agua participa en la mayoría de los procesos biológicos, físicos y químicos que se desarrollan en el planeta, haciendo que muchos procesos de las actividades humanas se relacionen directamente (Galvín, 2022).
     
     .row.justify-content-center.align-items-center.mb-5
@@ -78,7 +78,7 @@
         p Algunas de sus propiedades más destacadas son:
     
     .row
-      .col-lg-7
+      .col-lg-7(data-aos="zoom-in-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/imgt.svg' alt='AvatarTop')(style="max-width: 55%;margin-top: -15px;")
@@ -88,7 +88,7 @@
                 h3(style="color:#264100").mt-2 Propiedades físicas
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src="@/assets/curso/temas/tema1/img5.png", alt="Imagen decorativa")
       .col-lg-8
         .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -148,7 +148,7 @@
                     .mt-3
                     p Tiende a unirse con otras sustancias en vez de separarse.
     .row
-      .col-lg-7
+      .col-lg-7(data-aos="zoom-in-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/imgt.svg' alt='AvatarTop')(style="max-width: 55%;margin-top: -15px;")
@@ -157,7 +157,7 @@
               .col-lg-12
                 h3(style="color:#264100").mt-2 Propiedades químicas
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-left")
         .cajon.tarj-color.p-4.mb-4
           ul.lista-ul
             li 
@@ -173,10 +173,10 @@
               i.fas.fa-circle.fa-2xs
               | Reacciona con elementos clasificados como metales, no metales.
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src="@/assets/curso/temas/tema1/img6.png", alt="Imagen decorativa")        
     .row
-      .col-lg-7
+      .col-lg-7(data-aos="zoom-in-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/imgt.svg' alt='AvatarTop')(style="max-width: 55%;margin-top: -15px;")
@@ -185,14 +185,14 @@
               .col-lg-12
                 h3(style="color:#264100").mt-2 Propiedades microbiológicas
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-left")
         p En el agua residen organismos cuya concentración varía dependiendo de factores como:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src="@/assets/curso/temas/tema1/img7.png", alt="Imagen decorativa")
-      .col-lg-4
+      .col-lg-4(data-aos="flip-left")
         .cajon.color-primario.p-4.mb-4
           ul.lista-ul
             li 
@@ -216,7 +216,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-left")
         p Algunos de los organismos presentes en el agua pueden ser considerados como indicadores de su calidad, por lo cual comúnmente se analizan en la toma de muestras: 
 
     .tarjeta.tarjeta--amarilla.p-4(style="background-color:#EEFFDE")
@@ -228,7 +228,7 @@
               .col-sm.mb-5.mb-sm-0
                 p Aunque existen bacterias que se desarrollan en el agua, existen otras provenientes del aire y suelo que terminan ocasionalmente en el agua y permanecen vivas por un limitado tiempo.                  
           .col-md-6
-            figure
+            figure(data-aos="flip-right")
               img(src='@/assets/curso/temas/tema1/img8.png', alt='Las bacterias')
         .row
           .col-md-6.mb-4.mb-md-0
@@ -238,7 +238,7 @@
                 p Que habitan en el agua pueden desempeñar diversos roles en los ecosistemas acuáticos. Algunos de estos hongos son parásitos, lo que significa que pueden infectar y causar enfermedades en plantas y animales, ya sea de manera permanente u ocasional.
                 p Además, existen hongos que actúan como depredadores en el ambiente acuático. Estos hongos se alimentan de otros organismos microscópicos, como protozoos, rotíferos y nemátodos. Funcionan como parte de la cadena alimentaria, ayudando a regular las poblaciones de estas especies y contribuyendo al equilibrio del ecosistema acuático.                  
           .col-md-6
-            figure
+            figure(data-aos="flip-right")
               img(src='@/assets/curso/temas/tema1/img9.png', alt='Los hongos')
         .row
           .col-md-6.mb-4.mb-md-0
@@ -247,7 +247,7 @@
               .col-sm.mb-5.mb-sm-0
                 p Cuentan con gran facilidad para desplazarse en el agua por medio de sus órganos de locomoción como flagelos, cilios o pies falsos. Algunos se presentan de manera independiente, pero otros son parásitos de vertebrados e invertebrados.
           .col-md-6
-            figure
+            figure(data-aos="flip-right")
               img(src='@/assets/curso/temas/tema1/img10.png', alt='Los protozoos')
         .row
           .col-md-6.mb-4.mb-md-0
@@ -256,7 +256,7 @@
               .col-sm.mb-5.mb-sm-0
                 p Su presencia se encuentra directamente relacionada con la temperatura y la luz, produciendo los llamados florecimientos algales o explosiones de crecimientos algales en la superficie del agua. Es posible que no se encuentren en aguas subterráneas debido a su capacidad fotosintética.
           .col-md-6
-            figure
+            figure(data-aos="flip-right")
               img(src='@/assets/curso/temas/tema1/img11.png', alt='Las algas')
         .row
           .col-md-6.mb-4.mb-md-0
@@ -265,7 +265,7 @@
               .col-sm.mb-5.mb-sm-0
                 p Que se encuentran en el agua suelen ser parásitos de microorganismos o de organismos invertebrados y vertebrados, y pueden provenir de diversas fuentes, siendo una de las más comunes las aguas residuales contaminadas por aglomeraciones humanas. Los virus presentes en aguas contaminadas pueden representar un riesgo para la salud pública, ya que algunos de estos virus son patógenos y pueden causar enfermedades en humanos y otros organismos.
           .col-md-6
-            figure
+            figure(data-aos="flip-right")
               img(src='@/assets/curso/temas/tema1/img12.png', alt='Los virus')
 
     Separador
@@ -275,23 +275,23 @@
       h2.my-5 1.2 Niveles permisivos para consumo
       
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-left")
         .cajon.color-secundario.p-4.mb-4
           p  Los niveles permisivos, también conocidos como valores de referencia, son parámetros establecidos previamente con el propósito de servir como puntos de comparación durante el análisis de sistemas de medición. Estos valores son respaldados por profesionales expertos en la materia y están definidos por ley para proporcionar una guía en la interpretación de los resultados obtenidos mediante equipos de medición precisos.
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema1/img13.png', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-left")
         p En el contexto de los muestreos de agua, se lleva a cabo la medición de diversos parámetros críticos que son fundamentales para evaluar la calidad del agua y su adecuación para diferentes usos. Estos parámetros incluyen: 
     
     .cajon.tarj-color.p-4.mb-4
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-2        
-          figure
+          figure(data-aos="flip-right")
             img(src='@/assets/curso/temas/tema1/img14.svg', alt='Imagen decorativa')
         .col-lg-1
-        .col-lg-4
+        .col-lg-4(data-aos="flip-left")
           ul.lista-ul
             li 
               i.fas.fa-circle.fa-2xs
@@ -305,7 +305,7 @@
             li 
               i.fas.fa-circle.fa-2xs
               | Conductividad.
-        .col-lg-4
+        .col-lg-4(data-aos="flip-left")
           ul.lista-ul
             li 
               i.fas.fa-circle.fa-2xs
@@ -321,7 +321,7 @@
               | Sólidos suspendidos.
       
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-left")
         p Los resultados obtenidos se someten a un proceso de contraste o análisis en comparación con los niveles permitidos previamente establecidos con el fin de determinar la condición de un cuerpo de agua. Es fundamental que los valores de referencia recomendados cumplan con ciertos criterios:
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -331,7 +331,7 @@
             .p-1
             .row
               .col-1
-                figure
+                figure(data-aos="flip-right")
                   img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
               .col-11
                 .mt-3
@@ -342,7 +342,7 @@
             .p-1
             .row
               .col-1
-                figure
+                figure(data-aos="flip-right")
                   img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
               .col-11
                 .mt-3
@@ -353,7 +353,7 @@
             .p-1
             .row
               .col-1
-                figure
+                figure(data-aos="flip-right")
                   img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
               .col-11
                 .mt-3
@@ -364,23 +364,23 @@
             .p-1
             .row
               .col-1
-                figure
+                figure(data-aos="flip-right")
                   img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="margin-top:25px;")
               .col-11
                 .mt-3
                 p Deben estar diseñados para proteger la salud pública y el medio ambiente.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-left")
         p En Colombia, el Decreto 1076 de 2015, emitido por el Ministerio de Ambiente y Desarrollo Sostenible (MADS), en su hoja 383 (artículo 2.2.3.3.9.3), establece criterios de calidad admisibles para el uso del recurso hídrico destinado al consumo humano y doméstico. A continuación, se presenta una tabla que recopila los valores de referencia permitidos según esta normativa. Estos valores son esenciales para garantizar la calidad del agua utilizada para consumo humano y doméstico en el país. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0
-        .titulo-sexto.color-acento-contenido.offset-1
+      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
+        .titulo-sexto.color-acento-contenido.offset-0
           h5 Tabla 1.
           span  #[i  Valores de referencia permitidos de la calidad de agua para consumo humano y doméstico]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-left")
         .tabla-a.color-acento-botones.mb-5        
           table(border=1)
             caption Nota. Tomada de MADS (2015).
@@ -483,19 +483,19 @@
               td NMP
               td 2000 microorganismos/100 ml  
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-left")
         p Además de cumplir con estos criterios, es importante que el cuerpo de agua no presente sustancias que imparten:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema1/img15.png', alt='Imagen decorativa')
-      .col-lg-8
+      .col-lg-8(data-aos="flip-left")
         .cajon.color-primario.p-4.mb-4
           .row
             .col-1.desktop
               img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:60%;")
             .col-1.movil
-              figure
+              figure(data-aos="flip-right")
                 img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')
             .col-11              
               p Olor o sabor a los tejidos.
@@ -530,9 +530,9 @@
           p En el mismo decreto, y tal como se muestra en la siguiente tabla, se establecen los niveles permitidos para aguas de uso:
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-4
-          figure
+          figure(data-aos="flip-right")
             img(src='@/assets/curso/temas/tema1/img16.svg', alt='Imagen decorativa')
-        .col-lg-4
+        .col-lg-4(data-aos="flip-left")
           ul.lista-ul
             li 
               i.fas.fa-circle.fa-2xs(style="color:#FFBF9A")
@@ -556,12 +556,12 @@
               i.fas.fa-circle.fa-2xs(style="color:#FFBF9A")
               | Vertimientos.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0
+      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-1
           h5 Tabla 2.
           span  #[i  Valores de referencia permitidos de la calidad de agua para vertimientos a un cuerpo de agua]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-left")
         table(border=1)
           caption Nota. Tomada de MADS (2015).
           thead(style="background-color:#FFAE7E;")
