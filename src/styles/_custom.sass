@@ -271,7 +271,7 @@
 
   .icono
     max-width: 50px
-    margin-left: 295px
+    margin-left: 234px
     margin-top: -18px
     margin-bottom: -31px
 
@@ -290,7 +290,13 @@
     margin-left: 224px;
     margin-top: -18px;
     margin-bottom: -25px;
-  
+
+  @media (min-width: 1200px)
+    .icono
+      max-width: 50px
+      margin-left: 233px
+      margin-top: -18px
+      margin-bottom: -31px
 ///// Custom acordeon A tipo A -------------------------------------- 
 .tarjeta.acordeonA
   background-color: #DFEAF1
@@ -322,11 +328,8 @@
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
     transform: translateY(calc( 100% - 3.85rem ))
     background-color: rgba(193, 226, 154, 1) 
-  23
-  @media (min-width:1200px) and (max-width:1400px)  
-    .crd_hover_txt--body
-      p
-        font-size: 0.85em
+  
+
 
 .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
   background-color: #7816C2
@@ -334,3 +337,6 @@
 
 th.clsth
   width: 30px !important
+
+.fuente
+  font-size: 0.85em !important

@@ -55,7 +55,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: '2.1	Métodos de muestreo',
+            titulo: 'Métodos de muestreo',
             hash: 't_2_1',
           },
           {
@@ -206,7 +206,7 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar material PDF',
+        titulo: 'Descargar PDF',
         download: 'downloads/CFA_004_231100.zip',
       },
       {
@@ -254,35 +254,43 @@ export default {
   glosario: [
     {
       termino: 'Agua potable',
-      significado: '',
+      significado:
+        'tipo de agua encontrada en las residencias de las personas y en el área urbana.',
     },
     {
       termino: 'Agua residual',
-      significado: '',
+      significado:
+        'tipo de agua que proviene de las actividades antropogénicas que pueden ser domésticas, urbanas e industriales y que, para su retorno al ambiente, es necesario realizar un respectivo tratamiento, comúnmente se les llama vertimiento.',
     },
     {
       termino: 'Alícuota',
-      significado: '',
+      significado:
+        'parte de una muestra individual o submuestra que se colecta en el sitio para realizar el muestreo compuesto o integrado.',
     },
     {
       termino: 'Fitoplancton',
-      significado: '',
+      significado:
+        'conjunto de plantas microscópicas que flotan en el agua y forman parte del plancton.',
     },
     {
       termino: 'Muestreo de agua',
-      significado: '',
+      significado:
+        'actividades que tienen que ver con realizar colectas de agua según unos objetivos señalados previamente.',
     },
     {
       termino: 'Niveles permisivos',
-      significado: '',
+      significado:
+        'valores establecidos para fines de comparación con los resultados obtenidos.',
     },
     {
       termino: 'Trazabilidad',
-      significado: '',
+      significado:
+        'procedimientos establecidos que rastrean la muestra para garantizar su confiabilidad.',
     },
     {
       termino: 'Zooplancton',
-      significado: '',
+      significado:
+        'grupo de microorganismos animales que flotan en el agua y hacen parte del plancton.',
     },
   ],
   referencias: [
@@ -294,15 +302,19 @@ export default {
     },
     {
       referencia:
-        'Icontec. (2004). Norma Técnica Colombiana NTC- ISO 5667- 3. Calidad del agua. Muestreo. Parte 3: Directrices para la preservación y manejo de las muestras.',
+        'Icontec. (2004). Norma Técnica Colombiana NTC- ISO 5667- 3. Calidad del agua. Muestreo.',
       link:
         'https://tienda.icontec.org/gp-calidad-del-agua-muestreo-parte-3-directrices-para-la-preservacion-y-manejo-de-las-muestras-ntc-iso5667-3-2004.html',
+    },
+    {
+      referencia: 'Ideam. (2022). Aguas superficiales.',
+      link: 'http://www.ideam.gov.co/web/agua/aguas-superficiales',
     },
     {
       referencia:
         'MADS. (2017). Estrategia nacional para la implementación del sistema globalmente armonizado de clasificación y etiquetado de productos químicos- SGA- en Colombia.',
       link:
-        'https://quimicos.minambiente.gov.co/wp-content/uploads/2021/06/2.-estrategia-nacional-sga-2017.pdf',
+        'https://quimicos.minambiente.gov.co/wp-content/uploads/2021/06/2.-Estrategia-nacional-SGA-2017.pdf',
     },
     {
       referencia:
@@ -369,7 +381,7 @@ export default {
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura ',
         },

@@ -64,11 +64,11 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-right")
-        .titulo-sexto.color-acento-contenido.offset-1
+        .titulo-sexto.color-acento-contenido.offset-2
           h5 Figura 1.
           span  #[i  Imágenes utilizadas por el SGA con indicaciones de peligro]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4(data-aos="flip-right")
+      .col-lg-8(data-aos="flip-right")
         figure
           img(src='@/assets/curso/temas/tema5/img6.svg', alt='En la figura 1 se muestran los indicadores de peligro según el SGA.')
         figcaption Nota: MADS (2017).
@@ -425,7 +425,7 @@
               | Correctamente etiquetados, indicando su nivel de riesgo.
             li 
               i.fas.fa-circle.fa-2xs
-              | Incompatibilidad entre sustancias, como por ejemplo las sustancias combustibles lejos de las oxidantes. o tóxicas para evitar posibles reacciones.
+              | Incompatibilidad entre sustancias, como por ejemplo las sustancias combustibles lejos de las oxidantes o tóxicas para evitar posibles reacciones.
             li 
               i.fas.fa-circle.fa-2xs
               | Las sustancias corrosivas en recipientes pequeños y en bandejas o cubetas de contención.
@@ -434,7 +434,7 @@
               | Las instalaciones deben tener una óptima temperatura para evitar reacciones.
             li 
               i.fas.fa-circle.fa-2xs
-              | Productos químicos almacenados por tiempo prolongado es un riesgo porque pueden generar reacciones. químicas indeseadas, riesgo de descomposición de la sustancia o deterioro de los recipientes.
+              | Productos químicos almacenados por tiempo prolongado es un riesgo porque pueden generar reacciones químicas indeseadas, riesgo de descomposición de la sustancia o deterioro de los recipientes.
             li 
               i.fas.fa-circle.fa-2xs
               | Disponer de una buena ventilación si se almacenan especialmente productos tóxicos e inflamables.
@@ -443,7 +443,7 @@
               | Utilizar instalaciones eléctricas antiexplosivas.
             li 
               i.fas.fa-circle.fa-2xs
-              | Contar sistema de detraje seguro en caso de derrames.
+              | Contar sistema de drenaje seguro en caso de derrames.
 
       .col-lg-4
         figure(data-aos="flip-right")

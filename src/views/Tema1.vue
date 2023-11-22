@@ -28,7 +28,7 @@
             .icono  
               img(src="@/assets/curso/temas/tema1/flecha.svg", alt="Imagen decorativa")
             h4.mb-3 Agua cruda o superficial                    
-            p.mb-0 Son todos aquellos cuerpos de agua que se encuentran en la superficie de la Tierra y que se forman por escorrentía producto de las precipitaciones o por el afloramiento de aguas subterráneas son aguas en estado natural, que no han sido sometidas a procesos de tratamiento. 
+            p.mb-0 Son todos aquellos cuerpos de agua que se encuentran en la superficie de la Tierra y que se forman por escorrentía producto de las precipitaciones o por el afloramiento de aguas subterráneas, son aguas en estado natural, que no han sido sometidas a procesos de tratamiento. 
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -53,7 +53,7 @@
               img(src="@/assets/curso/temas/tema1/flecha.svg", alt="Imagen decorativa")
             h4.mb-3 Agua residual
             p.mb-0 Resultan de actividades antropogénicas. Su falta o indebido tratamiento puede generar graves problemas de contaminación alternando los ciclos biogeoquímicos.
-            ul.lista-ul
+            ul.lista-ul.fuente
               li
                 i.fas.fa-check
                 | #[b Físicos:] barreras como rejillas y filtros que impiden el paso de elementos.

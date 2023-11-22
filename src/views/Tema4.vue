@@ -30,7 +30,7 @@
             .col-1
               img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
             .col-11              
-                p Usar equipos que sean de fácil manejo y que garanticen además de la toma de la muestra, la seguridad del operario.          
+                p Usar equipos que sean de fácil manejo y además garanticen la toma de la muestra, la seguridad del operario.          
       .col-lg-4
         figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema4/img1.png', alt='Imagen decorativa')
@@ -267,7 +267,7 @@
                     | Cuidado con la humedad.
             tr
               th(style="background-color:#FFAE7E;").text-center  #[b Función ] 
-              td Medir parámetros in situ de calidad de agua.
+              td Medir parámetros #[i in situ] de calidad de agua.
             tr
               th(style="background-color:#FFAE7E;").text-center  #[b Parámetros a analizar] 
               td Oxígeno disuelto, pH, temperatura y conductividad.
@@ -458,7 +458,7 @@
             h3 Mantenimiento de emergencia
             .row.mb-5
               .col-sm.mb-5.mb-sm-0
-                p Eeste tipo de mantenimiento se realiza en situaciones de emergencia cuando un equipo ha fallado inesperadamente y se requiere una reparación inmediata para minimizar el tiempo de inactividad.
+                p Este tipo de mantenimiento se realiza en situaciones de emergencia cuando un equipo ha fallado inesperadamente y se requiere una reparación inmediata para minimizar el tiempo de inactividad.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema4/img11.png', alt='Imagen decorativa')
