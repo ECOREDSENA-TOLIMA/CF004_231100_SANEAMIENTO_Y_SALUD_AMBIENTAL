@@ -70,7 +70,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="flip-right")
         figure
-          img(src='@/assets/curso/temas/tema5/img6.svg', alt='En la figura 1 se muestran los indicadores de peligro según el SGA.')
+          img(src='@/assets/curso/temas/tema5/img6.svg', alt='Imágenes utilizadas por el SGA con indicaciones de peligro ')
         figcaption Nota: MADS (2017).
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
@@ -208,7 +208,7 @@
       h2.my-5 5.2 Hoja de seguridad
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
-        p Las hojas de seguridad, también conocidas como Fichas de Datos de Seguridad (FDS) o Material Safety Data Sheets (MSDS) en inglés, son documentos esenciales que proporcionan información detallada sobre los peligros asociados con un producto químico o su mezcla. Estas hojas se utilizan para comunicar de manera efectiva la información crítica relacionada con la seguridad y el manejo de productos químicos peligrosos. A continuación, se describen algunos de los aspectos clave que se incluyen en una hoja de seguridad:
+        p Las hojas de seguridad, también conocidas como Fichas de Datos de Seguridad (FDS) o Material #[i Safety Data Sheets] (MSDS) en inglés, son documentos esenciales que proporcionan información detallada sobre los peligros asociados con un producto químico o su mezcla. Estas hojas se utilizan para comunicar de manera efectiva la información crítica relacionada con la seguridad y el manejo de productos químicos peligrosos. A continuación, se describen algunos de los aspectos clave que se incluyen en una hoja de seguridad:
     
     .cajon.tarj-color.p-4.mb-4
       .row.justify-content-center.align-items-center.mb-5

@@ -53,7 +53,7 @@
               img(src="@/assets/curso/temas/tema1/flecha.svg", alt="Imagen decorativa")
             h4.mb-3 Agua residual
             p.mb-0 Resultan de actividades antropogénicas. Su falta o indebido tratamiento puede generar graves problemas de contaminación alternando los ciclos biogeoquímicos.
-            ul.lista-ul.fuente
+            ul.lista-ul
               li
                 i.fas.fa-check
                 | #[b Físicos:] barreras como rejillas y filtros que impiden el paso de elementos.
@@ -113,7 +113,7 @@
                       img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width: 100%;")
                   .col-11
                     .mt-3
-                    p Es inolora, incolora, insípida.
+                    p Es inodora, incolora, insípida.
           .col-lg-12.mb-1(data-aos="fade-down-left")
             .tarjeta-avatar-b
               .tarjeta.tarjeta-verde.color-primario(style="background-color:#EEFFDE;margin-left:0px;")

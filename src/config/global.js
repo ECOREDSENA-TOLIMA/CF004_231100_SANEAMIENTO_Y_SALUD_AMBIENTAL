@@ -302,7 +302,12 @@ export default {
     },
     {
       referencia:
-        'Icontec. (2004). Norma Técnica Colombiana NTC- ISO 5667- 3. Calidad del agua. Muestreo.',
+        'Icontec. (1995). Norma Técnica Colombiana NTC- ISO 5667- 2 Gestión ambiental. calidad del agua. Muestreo. técnicas generales de muestreo.',
+      link: 'https://vdocuments.mx/ntc-iso-5667-2.html',
+    },
+    {
+      referencia:
+        'Icontec. (2004). Norma Técnica Colombiana NTC- ISO 5667- 3. Calidad del agua. Muestreo. Parte 3: Directrices para la preservación y manejo de las muestras.',
       link:
         'https://tienda.icontec.org/gp-calidad-del-agua-muestreo-parte-3-directrices-para-la-preservacion-y-manejo-de-las-muestras-ntc-iso5667-3-2004.html',
     },
@@ -314,7 +319,7 @@ export default {
       referencia:
         'MADS. (2017). Estrategia nacional para la implementación del sistema globalmente armonizado de clasificación y etiquetado de productos químicos- SGA- en Colombia.',
       link:
-        'https://quimicos.minambiente.gov.co/wp-content/uploads/2021/06/2.-Estrategia-nacional-SGA-2017.pdf',
+        'https://quimicos.minambiente.gov.co/wp-content/uploads/2021/06/2.-estrategia-nacional-sga-2017.pdf',
     },
     {
       referencia:
@@ -333,16 +338,6 @@ export default {
         'OMS. (2011). Guías para la calidad del agua de consumo humano: cuarta edición que incorpora la primera adenda.',
       link:
         'https://apps.who.int/iris/bitstream/handle/10665/272403/9789243549958-spa.pdf?ua=1',
-    },
-    {
-      referencia:
-        'Icontec. (1995). NTC- ISO 5667-1 Calidad de agua. Muestreo. Directrices para el diseño de programas de muestreo.',
-      link:
-        'https://vdocuments.mx/ntc-iso-5667-2.html?page=1https://tienda.icontec.org',
-    },
-    {
-      referencia: '',
-      link: '',
     },
   ],
   creditos: [
