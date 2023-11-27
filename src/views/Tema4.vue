@@ -30,7 +30,7 @@
             .col-1
               img(src='@/assets/curso/temas/vineta.svg' alt='AvatarTop')(style="max-width:20px;")
             .col-11              
-                p Usar equipos que sean de fácil manejo y además garanticen la toma de la muestra, la seguridad del operario.          
+                p Usar equipos que sean de fácil manejo y garanticen la toma de la muestra, la seguridad del operario          
       .col-lg-4
         figure(data-aos="flip-right")
           img(src='@/assets/curso/temas/tema4/img1.png', alt='Imagen decorativa')

@@ -296,7 +296,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Icontec. (1995). NTC- ISO 5667-1 Calidad del agua. Muestreo. Directrices para el diseño de programas y técnicas de muestreo.',
+        'Icontec. (1995). NTC- ISO 5667-1 Calidad del agua. Muestreo. Parte 1: Directrices para el diseño de programas y técnicas de muestreo.',
       link:
         'https://tienda.icontec.org/gp-calidad-del-agua-muestreo-parte-1-directrices-para-el-diseno-de-programas-y-tecnicas-de-muestreo-ntc-iso5667-1-2010.html',
     },
