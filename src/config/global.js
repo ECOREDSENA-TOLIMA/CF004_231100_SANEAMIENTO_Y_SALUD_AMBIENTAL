@@ -296,7 +296,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Icontec. (1995). NTC- ISO 5667-1 Calidad de agua. Muestreo. Directrices para el diseño de programas de muestreo.',
+        'Icontec. (1995). NTC- ISO 5667-1 Calidad del agua. Muestreo. Directrices para el diseño de programas y técnicas de muestreo.',
       link:
         'https://tienda.icontec.org/gp-calidad-del-agua-muestreo-parte-1-directrices-para-el-diseno-de-programas-y-tecnicas-de-muestreo-ntc-iso5667-1-2010.html',
     },
@@ -319,7 +319,7 @@ export default {
       referencia:
         'MADS. (2017). Estrategia nacional para la implementación del sistema globalmente armonizado de clasificación y etiquetado de productos químicos- SGA- en Colombia.',
       link:
-        'https://quimicos.minambiente.gov.co/wp-content/uploads/2021/06/2.-estrategia-nacional-sga-2017.pdf',
+        'https://quimicos.minambiente.gov.co/wp-content/uploads/2021/06/2.-Estrategia-nacional-SGA-2017.pdf',
     },
     {
       referencia:
@@ -346,12 +346,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
@@ -361,17 +361,17 @@ export default {
       autores: [
         {
           nombre: 'Diana Carolina Sánchez Rodríguez ',
-          cargo: 'Experta temática',
+          cargo: 'Experta Temática',
           centro: 'Regional Tolima. Centro Agropecuario La Granja',
         },
         {
           nombre: 'Gustavo Santis Mancipe',
-          cargo: 'Diseñador instruccional',
+          cargo: 'Diseñador Instruccional',
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial.',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Asesora metodológica',
+          cargo: 'Asesora Metodológica',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología. ',
         },
         {
@@ -382,7 +382,7 @@ export default {
         },
         {
           nombre: 'José Gabriel Ortiz Abella',
-          cargo: 'Correctora de estilo',
+          cargo: 'Correctora de Estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología.',
         },
         {
@@ -393,7 +393,7 @@ export default {
         },
         {
           nombre: 'Sergio Augusto Ardila Ortiz',
-          cargo: 'Diseñador instruccional',
+          cargo: 'Diseñador Instruccional',
           centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
@@ -423,7 +423,7 @@ export default {
         },
         {
           nombre: 'Maria Alejandra Briceño Vera',
-          cargo: 'Producción',
+          cargo: 'Produccióon audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
@@ -433,7 +433,7 @@ export default {
         },
         {
           nombre: 'Oleg Litvin',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Produccióon audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {

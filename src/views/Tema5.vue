@@ -70,7 +70,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="flip-right")
         figure
-          img(src='@/assets/curso/temas/tema5/img6.svg', alt='Imágenes utilizadas por el SGA con indicaciones de peligro ')
+          img(src='@/assets/curso/temas/tema5/img6.svg', alt='En la figura 1 se muestran los indicadores de peligro según el SGA.')
         figcaption Nota: MADS (2017).
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
