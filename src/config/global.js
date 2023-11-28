@@ -302,7 +302,7 @@ export default {
     },
     {
       referencia:
-        'Icontec. (1995). Norma Técnica Colombiana NTC- ISO 5667- 2 Gestión ambiental. calidad del agua. Muestreo. técnicas generales de muestreo.',
+        'Icontec. (1995). Norma Técnica Colombiana NTC- ISO 5667- 2 Gestión ambiental. calidad del agua. Muestreo. Técnicas generales de muestreo.',
       link: 'https://vdocuments.mx/ntc-iso-5667-2.html',
     },
     {
